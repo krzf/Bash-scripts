@@ -1,2 +1,2 @@
-# BashScriptsForMonitoring
-changeme
+# Bash scripts for monitoring lunix
+
